@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior QA Tester with a strong foundation in software testing principles (manual and API). Skilled in designing and<br>executing test cases, identifying and documenting bugs, and verifying functionality to ensure software quality.<br>Demonstrated hands-on experience using Postman for API testing and manual testing of real-world projects. Known for<br>attention to detail, strong documentation skills, and teamwork in collaborative environments.
+Detail-oriented Computer Science graduate (Faculty of Science) with a solid foundation in Software Quality Control. Thoroughly trained in ISTQB Foundation Level methodologies and the Software Testing Life Cycle (STLC). Hands-on experience in Manual Testing, test case design, and defect tracking using Jira. Proficient in creating automated scripts with Selenium WebDriver and working within Agile/Scrum teams. Committed to delivering high-quality, bug-free software through analytical thinking and rigorous testing standards.
 
 
 ## 🌐 Socials:
